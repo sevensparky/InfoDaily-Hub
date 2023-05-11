@@ -74,5 +74,3 @@ php artisan serve
 ```
 ___
 ### **_Application is ready! enjoy :)_**
-
-### **finally, remember to give to star this project. thanks. :D**
